@@ -33,4 +33,5 @@ Modelos testados:
 
 
 ## Notebooks desenvolvido:
-* [**ACESSE O NOTEBOOK**](https://github.com/iagoho/selecao_cientista_dados/blob/main/selecao_cientista_dados_iago.ipynb)
+* [**ACESSE O NOTEBOOK PELO NBVIEWER**](https://nbviewer.jupyter.org/github/iagoho/selecao_cientista_dados/blob/main/selecao_cientista_dados_iago.ipynb)
+* [**ACESSE O NOTEBOOK PELO GITHUB**](https://github.com/iagoho/selecao_cientista_dados/blob/main/selecao_cientista_dados_iago.ipynb)
