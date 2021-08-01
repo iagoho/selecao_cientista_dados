@@ -13,7 +13,7 @@ Gastei poucas horas para desenvolver este notebook, onde realizei várias tarefa
 - Identifiquei variáveis importantes para descrever as saídas, evitando que sejam utilizadas todas as variáveis (uma vez que algumas não são importantes;
 - Fiz o balanceamento de classes;
 - Apliquei técnicas de normalização nos dados;
-- Testei diferentes modelos;
+- Testei diferentes modelos para prever a saída;
 - Ajustei os hiperparâmetros dos modelos, por meio da técnica de busca em grade.
 
 Linguagem utilizada: 
