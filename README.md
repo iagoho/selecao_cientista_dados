@@ -10,7 +10,7 @@ Gastei poucas horas para desenvolver este notebook, onde realizei várias tarefa
 
 - Criei funções que podem ser reaproveitadas sempre que necessário;
 - Realizei uma análise exploratória em todos os datasets;
-- Identifiquei variáveis importantes para descrever as saídas, evitando que sejam utilizadas todas as variáveis (uma vez que algumas não são importantes;
+- Identifiquei variáveis importantes para descrever as saídas, evitando que sejam utilizadas todas as variáveis (uma vez que algumas não são importantes);
 - Fiz o balanceamento de classes;
 - Apliquei técnicas de normalização nos dados;
 - Testei diferentes modelos para prever a saída;
